@@ -2,7 +2,7 @@
 
 Material for the workshop: Introduction to Python for The Central Dogma. 
 
-If you are attended our virtual interactive session on Microsoft Teams, please make sure you can run Anaconda, which can be easily obtained from Imperial College's [AppsAnywhere platform](https://softwarehub.imperial.ac.uk/) or from the [offical Anaconda website](https://www.anaconda.com/) (only recommended if you cannot access AppsAnywhere or completing the tutorial outside of the scheduled session). 
+If you are attending our virtual interactive session on Microsoft Teams, please make sure you can run Anaconda, which can be easily obtained from Imperial College's [AppsAnywhere platform](https://softwarehub.imperial.ac.uk/) or from the [offical Anaconda website](https://www.anaconda.com/) (only recommended if you cannot access AppsAnywhere or are completing the tutorial outside of the scheduled session). 
 
 The session should last approximately 2 hours.
 
